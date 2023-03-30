@@ -1,1 +1,2 @@
-"# deeplearning-for-everyone-study" 
+# DeepLearning for Everyone 정리
+
