@@ -1,2 +1,2 @@
-# DeepLearning for Everyone 정리
+# DeepLearning for Everyone
 
